@@ -4,6 +4,10 @@ I love my job and I enjoy working on mini side projects.
 My Hobies are gaming, movies, books, going out & co... 
 
 ### My Stats
-https://github-readme-stats.vercel.app/api?username=xelox&count_private=true&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=xelox&count_private=true&show_icons=true&theme=dark&layout=compact
+<a href="Minlor's GitHub stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xelox&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="Minlor's Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelox&count_private=true&show_icons=true&theme=dark&layout=compact" />
+</a>
 
