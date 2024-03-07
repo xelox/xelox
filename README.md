@@ -1,8 +1,4 @@
 ### About Me
-My name is Alex, I have developed and maintained a feature rich Contact Strategy Platform at Cornerstone Removals in the last 2 years. Currently I am focusing on learning Rust and becoming a better developer.
-
-Check out my projects!
-
 You can contact me by email <alex@gorodoro.dev>  
 or you can add my Discord [@xelox33](https://discordapp.com/users/789236759867031553)
 
